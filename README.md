@@ -26,3 +26,21 @@ Ensure you have the following installed:
    ```
 
 2. **Navigate to the project directory**:
+   
+   ```
+   cd book-store-app
+   ```
+
+3. **Install dependencies**:
+   
+   ```
+   npm install
+   ```
+   
+4. **Run the application**:
+
+   ```
+   node app.js
+   ```
+
+5. **View in browser**: Open your browser and go to http://localhost:3000.
