@@ -48,3 +48,4 @@ Ensure you have the following installed:
 ## 💾 Using SQLite with Sequelize
 
 This project uses **SQLite** for managing the database through Sequelize ORM. If you prefer, you can switch to MongoDB by following a similar structure.
+
