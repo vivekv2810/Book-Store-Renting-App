@@ -82,3 +82,12 @@ book-store-app/
 └── package.json          # Project configuration
 ```
 
+## 📂 License
+
+This project is licensed under the MIT License.
+
+## 🎉 Acknowledgments
+
+“Good friends, good books, and a sleepy conscience: this is the ideal life.” – Mark Twain
+
+Thank you for checking out this project! We hope it provides the ideal experience for browsing and renting books.
