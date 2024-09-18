@@ -54,8 +54,13 @@ This project uses **SQLite** for managing the database through Sequelize ORM. If
 SQLite database will automatically be created as ```database.sqlite``` when the app runs.
 
 - **Books Model**:
-Title (String)
-Author (String)
-Price (Number)
-Available for Rent (Boolean)
-Rent Price (Number)
+
+     - Title (String)
+
+     - Author (String)
+
+     - Price (Number)
+
+     - Available for Rent (Boolean)
+
+     - Rent Price (Number)
