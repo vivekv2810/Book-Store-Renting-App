@@ -64,3 +64,21 @@ SQLite database will automatically be created as ```database.sqlite``` when the 
      - Available for Rent (Boolean)
 
      - Rent Price (Number)
+
+## 🛠 Project Structure
+
+```
+book-store-app/
+│
+├── public/               # Static assets (CSS, JavaScript, Images)
+│
+├── views/                # EJS views (HTML templates)
+│
+├── models/               # Sequelize models
+│
+├── routes/               # Application routes
+│
+├── app.js                # Main server file
+└── package.json          # Project configuration
+```
+
