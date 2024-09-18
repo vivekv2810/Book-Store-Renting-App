@@ -43,4 +43,8 @@ Ensure you have the following installed:
    node app.js
    ```
 
-5. **View in browser**: Open your browser and go to http://localhost:3000.
+5. **View in browser**: Open your browser and go to ```http://localhost:3000```.
+
+## 💾 Using SQLite with Sequelize
+
+This project uses **SQLite** for managing the database through Sequelize ORM. If you prefer, you can switch to MongoDB by following a similar structure.
