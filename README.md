@@ -49,3 +49,13 @@ Ensure you have the following installed:
 
 This project uses **SQLite** for managing the database through Sequelize ORM. If you prefer, you can switch to MongoDB by following a similar structure.
 
+## Database Setup
+
+SQLite database will automatically be created as ```database.sqlite``` when the app runs.
+
+- **Books Model**:
+Title (String)
+Author (String)
+Price (Number)
+Available for Rent (Boolean)
+Rent Price (Number)
